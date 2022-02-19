@@ -16,7 +16,7 @@
 + plotly
 
 ## Motivação:
-### A base contem dados de créditos de clientes, e se eles pagaram ou não seus respectivos emprestimos, um cenário atual no qual muitos bancos utilizam este tipo de técnica, para determinar o risco de crédito para concessão de empréstimo.
+### A base contém dados de créditos de clientes, e se eles pagaram ou não seus respectivos emprestimos, um cenário atual no qual muitos bancos utilizam este tipo de técnica, para determinar o risco de crédito para concessão de empréstimo.
 
 >Tarefas executadas:
 + Carregamento das bases de dados
